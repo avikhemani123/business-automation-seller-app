@@ -1,0 +1,6 @@
+textAlign: TextAlign.center,
+                 style: TextStyle(
+                   fontFamily: "Signatra",
+                   fontSize: 30,
+                   letterSpacing: 2,
+                   color: Colors.black,
